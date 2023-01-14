@@ -1,0 +1,10 @@
+insert into product (name_product,price,create_at) values ('Panasonic',900,NOW());
+insert into product (name_product,price,create_at) values ('Sony',1000,NOW());
+insert into product (name_product,price,create_at) values ('Apple',1200,NOW());
+insert into product (name_product,price,create_at) values ('Sony Notebook',700,NOW());
+insert into product (name_product,price,create_at) values ('Hewlett Packard',600,NOW());
+insert into product (name_product,price,create_at) values ('Bianchi',50,NOW());
+insert into product (name_product,price,create_at) values ('Nike',180,NOW());
+insert into product (name_product,price,create_at) values ('Adidas',200,NOW());
+insert into product (name_product,price,create_at) values ('Reebok',300,NOW());
+insert into product (name_product,price,create_at) values ('Kalley',140,NOW());
